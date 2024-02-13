@@ -1,0 +1,15 @@
+{
+  "name": "postmantask",
+  "version": "1.0.0",
+  "description": "created this project to understand postman",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "raagull sakthivel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
